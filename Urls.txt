@@ -1,5 +1,0 @@
-- project url
-https://www.dropbox.com/s/z1eq4x9hx2tds0a/ConfigFabProject.rar?dl=0
-
-- database url
-https://www.dropbox.com/s/q7nuvdxxzr9agh9/configfab.bacpac?dl=0
